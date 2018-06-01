@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий Павликов](https://up.htmlacademy.ru/javascript/14/user/512993).
-* Наставник: `Неизвестно`.
+* Наставник: Владимир Кашапов.
 
 ---
 
